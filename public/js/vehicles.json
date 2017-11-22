@@ -3,11 +3,11 @@
     "code": "seria-1",
     "name": "Seria 1",
     "images": [
-      "../img/seria1-1.jpg",
-      "../img/seria1-2.jpg",
-      "../img/seria1-3.jpg",
-      "../img/seria1-4.jpg",
-      "../img/seria1-5.jpg"
+      "./img/seria1-1.jpg",
+      "./img/seria1-2.jpg",
+      "./img/seria1-3.jpg",
+      "./img/seria1-4.jpg",
+      "./img/seria1-5.jpg"
     ],
     "cp": "340",
     "acceleratie": "4,8 [4,6]",
@@ -23,11 +23,11 @@
     "code": "seria-2",
     "name": "Seria 2",
     "images": [
-      "../img/seria2-1.jpg",
-      "../img/seria2-2.jpg",
-      "../img/seria2-3.jpg",
-      "../img/seria2-4.jpg",
-      "../img/seria2-5.jpg"
+      "./img/seria2-1.jpg",
+      "./img/seria2-2.jpg",
+      "./img/seria2-3.jpg",
+      "./img/seria2-4.jpg",
+      "./img/seria2-5.jpg"
     ],
     "cp": "340",
     "acceleratie": "4,8 [4,6]",
@@ -43,11 +43,11 @@
     "code": "seria-3",
     "name": "Seria 3",
     "images": [
-      "../img/seria3-1.jpg",
-      "../img/seria3-2.jpg",
-      "../img/seria3-3.jpg",
-      "../img/seria3-4.jpg",
-      "../img/seria3-5.jpg"
+      "./img/seria3-1.jpg",
+      "./img/seria3-2.jpg",
+      "./img/seria3-3.jpg",
+      "./img/seria3-4.jpg",
+      "./img/seria3-5.jpg"
     ],
     "cp": "450",
     "acceleratie": "4,3 [4,1]",
@@ -63,11 +63,11 @@
     "code": "seria-4",
     "name": "Seria 4",
     "images": [
-      "../img/seria4-1.jpg",
-      "../img/seria4-2.jpg",
-      "../img/seria4-3.jpg",
-      "../img/seria4-4.jpg",
-      "../img/seria4-5.jpg"
+      "./img/seria4-1.jpg",
+      "./img/seria4-2.jpg",
+      "./img/seria4-3.jpg",
+      "./img/seria4-4.jpg",
+      "./img/seria4-5.jpg"
     ],
     "cp": "450",
     "acceleratie": "4,3 [4,1]",
@@ -83,11 +83,11 @@
     "code": "seria-5",
     "name": "Seria 5",
     "images": [
-      "../img/seria5-1.jpg",
-      "../img/seria5-2.jpg",
-      "../img/seria5-3.jpg",
-      "../img/seria5-4.jpg",
-      "../img/seria5-5.jpg"
+      "./img/seria5-1.jpg",
+      "./img/seria5-2.jpg",
+      "./img/seria5-3.jpg",
+      "./img/seria5-4.jpg",
+      "./img/seria5-5.jpg"
     ],
     "cp": "462",
     "acceleratie": "4,0",
@@ -103,11 +103,11 @@
     "code": "seria-6",
     "name": "Seria 6",
     "images": [
-      "../img/seria6-1.jpg",
-      "../img/seria6-2.jpg",
-      "../img/seria6-3.jpg",
-      "../img/seria6-4.jpg",
-      "../img/seria6-5.jpg"
+      "./img/seria6-1.jpg",
+      "./img/seria6-2.jpg",
+      "./img/seria6-3.jpg",
+      "./img/seria6-4.jpg",
+      "./img/seria6-5.jpg"
     ],
     "cp": "560",
     "acceleratie": "4,2",
@@ -123,11 +123,11 @@
     "code": "seria-7",
     "name": "Seria 7",
     "images": [
-      "../img/seria7-1.jpg",
-      "../img/seria7-2.jpg",
-      "../img/seria7-3.jpg",
-      "../img/seria7-4.jpg",
-      "../img/seria7-5.jpg"
+      "./img/seria7-1.jpg",
+      "./img/seria7-2.jpg",
+      "./img/seria7-3.jpg",
+      "./img/seria7-4.jpg",
+      "./img/seria7-5.jpg"
     ],
     "cp": "265",
     "acceleratie": "6,1",

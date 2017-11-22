@@ -18,7 +18,7 @@ function fetchJSONFile(path, callback) {
     httpRequest.send();
 }
 
-fetchJSONFile('../server/vehicles.json', function (data) {
+fetchJSONFile('./js/vehicles.json', function (data) {
     vehicles = data;
     let nav = document.getElementsByClassName('nav')[0];
     document.getElementById('currYear').innerHTML = currentYear;

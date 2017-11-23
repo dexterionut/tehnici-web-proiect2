@@ -87,7 +87,7 @@ function changeCarData(newCar) {
 
 function bindInnerTextById(id, newItem) {
     let element = document.getElementById(id);
-    if (element && newItem)
+    if (element && newItem && newItem[id])
         element.innerText = newItem[id];
     else
         element.innerText = "";

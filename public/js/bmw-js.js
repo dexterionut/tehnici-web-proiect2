@@ -102,7 +102,7 @@ function replaceImages(newImages) {
         let newImg = document.createElement('img');
         newImg.alt = "...";
         newImg.className = "img-resize";
-        newImg.src = '';
+        newImg.src = './img/no-image.jpg';
 
         if (newImages.length > i) {
             newImg.src = newImages[i];

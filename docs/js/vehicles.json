@@ -1,0 +1,142 @@
+[
+  {
+    "code": "seria-1",
+    "name": "Seria 1",
+    "images": [
+      "./img/seria1-1.jpg",
+      "./img/seria1-2.jpg",
+      "./img/seria1-3.jpg",
+      "./img/seria1-4.jpg",
+      "./img/seria1-5.jpg"
+    ],
+    "cp": "340",
+    "acceleratie": "4,8 [4,6]",
+    "vitezaMaxima": "250",
+    "combustibil": "7,8 [7,1]",
+    "emisiiCo2": "163-179",
+    "text1": "Noul BMW Seria 1 creează impresie puternică, este distractiv şi uşor de recunoscut: cu design sportiv, caracteristici de condus dinamice şi conectivitate perfectă, noul erou al oraşului te cucereşte dintr-o privire. Acesta îţi oferă viteză atât pe şosea, cât şi pe internet şi este pregătit pentru orice provocare. O diferenţă atât de mică, dar cu un impact aşa de mare!",
+    "text2": "Designul noului BMW Seria 1 poate fi descris într-un singur cuvânt: dinamic. Indiferent de unghiul din care-l priveşti, acesta te fascinează datorită proporţiilor sale ideale şi confirmă aspiraţiile sportive pe care le are, în fiecare detaliu. Acest model este orientat spre plăcerea de a conduce şi are design armonios, indiferent de pachetul de echipamente sau de ediţia pentru care optezi.",
+    "text3": "Mai multă plăcere de a conduce pe drumuri drepte şi adrenalină maximă în fiecare viraj. Direcţie precisă caracteristică automobilelor BMW, suspensie cu reglaje perfecte şi distribuţie optimă a greutăţii între punţi – toate acestea garantează performanţă agilă. Iar datorită motorului Turbo pe benzină cu 6 cilindri în linie, aflat sub capota alungită, noul BMW Seria 1 atinge cel mai înalt nivel de dinamică, în comparaţie cu alte modele din clasa compactă. Este un adevărat sportiv!",
+    "text4": "Descoperă următorul nivel al conectivităţii: concept intuitiv de operare, sisteme inteligente de asistare a conducătorului auto şi servicii digitale unice în această clasă de automobile, care îţi oferă o experienţă de condus fără precedent. Iar datorită aplicaţiei care îţi conectează automobilul la smartphone, beneficiezi de opţiuni noi în ceea ce priveşte centralizarea întâlnirilor şi planificarea traseului, plus funcţii de comunicare business şi de divertisment."
+  },
+  {
+    "code": "seria-2",
+    "name": "Seria 2",
+    "images": [
+      "./img/seria2-1.jpg",
+      "./img/seria2-2.jpg",
+      "./img/seria2-3.jpg",
+      "./img/seria2-4.jpg",
+      "./img/seria2-5.jpg"
+    ],
+    "cp": "340",
+    "acceleratie": "4,8 [4,6]",
+    "vitezaMaxima": "250",
+    "combustibil": "7,8 [7,1]",
+    "emisiiCo2": "163-179",
+    "text1": "Noul BMW Seria 2 Coupé reprezintă esenţa individualităţii şi astfel îşi creează propria clasă de automobile. Designul sportiv revoluţionar îţi dă senzaţia de mişcare, chiar şi atunci când automobilul stă pe loc, iar dinamica impresionantă, sistemul de tracţiune spate agil şi interiorul exclusivist şi foarte confortabil îţi oferă experienţe de condus fără compromis. Este evident încă din prima clipă: eşti nerăbdător să te urci la volan.",
+    "text2": "Designul noului BMW Seria 2 Coupé stabileşte standarde noi – de la proporţiile compacte şi unice, partea frontală cu grila dublă a radiatorului reconcepută până la partea spate sportivă care accentuează lăţimea automobilului. Linia plafonului specifică modelelor coupé subliniază aspectul dinamic şi scoate în evidenţă ambiţiile sportive ale acestui model, încă de la prima vedere.",
+    "text3": "Putere, forţă de propulsie şi performanţă: motoarele noului BMW Seria 2 Coupé accelerează atât automobilul, cât şi pulsul conducătorului auto. Tehnologiile Efficient TwinPower Turbo oferă senzaţie de condus impresionantă: noul BMW M240i Coupé are putere de 250 kW (340 CP).",
+    "text4": "Senzaţie motorsport inconfundabilă, dinamică palpitantă şi agilitate remarcabilă: BMW M240i Coupé îşi respectă principiul de a oferi performanţă. Interacţiunea perfectă a numeroaselor componente performante, precum suspensia M Sport mai joasă, frânele M Sport şi transmisia sportivă oferă plăcere de a conduce de primă clasă – în special în viraje. Acest lucru nu este deloc surprinzător, pentru că BMW M240i Coupé este propulsat de un motor puternic de 250 kW (340 CP)."
+  },
+  {
+    "code": "seria-3",
+    "name": "Seria 3",
+    "images": [
+      "./img/seria3-1.jpg",
+      "./img/seria3-2.jpg",
+      "./img/seria3-3.jpg",
+      "./img/seria3-4.jpg",
+      "./img/seria3-5.jpg"
+    ],
+    "cp": "450",
+    "acceleratie": "4,3 [4,1]",
+    "vitezaMaxima": "280",
+    "combustibil": "8,8 [8,3]",
+    "emisiiCo2": "204 [194]",
+    "text1": "Un automobil sport de performanţă cu patru uşi şi design care-ţi taie respiraţia. Echipat cu inovaţii tehnologice de ultimă generaţie, inspirate din domeniul motorsport, pentru mai multă dinamică şi manevrabilitate. Pentru momente de condus pline de adrenalină care au un scop bine definit: depăşirea recordurilor personale – toate acestea cu BMW M3 Sedan.",
+    "text2": "ADN-ul motorsport al BMW M3 Sedan este inconfundabil. Partea frontală dinamică cu prize de aer mari şi lamele duble ale grilei radiatorului cu finisaje în negru lucios evidenţiază performanţa remarcabilă a acestui model. În interior, habitaclul orientat spre conducătorul auto te inspiră cu contururile sale ergonomice perfecte. Scaunele M exclusive oferă suport excelent în părţile laterale. Toate detaliile au finisaje de înaltă calitate şi transmit emoţiile pure pe care le trăieşti doar pe circuitul de curse.",
+    "text3": "Pachetul M Competition disponibil opţional se asigură că motorul de 331 kW al BMW M3 Sedan oferă şi mai multă putere. Pachetul include şi suspensie M adaptivă special reglată, jante M din aliaj uşor de 20” Star-spoke, tip 666 M, lustruite, cu anvelope mixte şi sistem de evacuare M Sport care produce sunet inconfundabil.",
+    "text4": "Îţi poţi da seama dintr-o privire că BMW M3 Sedan este un adevărat sportiv de top, chiar şi atunci când nu se află pe circuitul de curse. Acesta asigură manevrabilitate precisă şi agilă în special în situaţii de condus dificile. Motorul M puternic transferă doză optimă de propulsie către carosabil, cu ajutorul transmisiei M manuale cu 6 trepte sau – fără întreruperi de putere – prin intermediul transmisiei cu 7 trepte şi ambreiaj dublu."
+  },
+  {
+    "code": "seria-4",
+    "name": "Seria 4",
+    "images": [
+      "./img/seria4-1.jpg",
+      "./img/seria4-2.jpg",
+      "./img/seria4-3.jpg",
+      "./img/seria4-4.jpg",
+      "./img/seria4-5.jpg"
+    ],
+    "cp": "450",
+    "acceleratie": "4,3 [4,1]",
+    "vitezaMaxima": "280",
+    "combustibil": "8,8 [8,3]",
+    "emisiiCo2": "204 [194]",
+    "text1": "Un sportiv de performanţă pentru şosea şi pentru circuitul de curse, pentru drifturi perfecte, viraje rapide şi drumurile drepte dintre acestea. Pentru a-ţi oferi experienţe de condus pline de adrenalină, atunci când strângi ferm volanul în mâini, iar degetele îţi sunt pregătite pentru a acţiona padelele de schimbare a vitezelor cu răspuns prompt, plasate pe volan. BMW M4 Coupé: un model sport creat pentru a-ţi accelera pulsul.",
+    "text2": "BMW M4 Coupé te va cuceri imediat. Farurile cu tehnologie LED din partea frontală şi din partea spate sunt disponibile în echiparea standard şi scot în evidenţă caracterul aerodinamic al caroseriei. Prizele de aer mai mari şi jantele din aliaj uşor de 20” din cadrul pachetului M Competition, disponibil opţional, evidenţiază sportivitatea automobilului. Elemente sportive precum grupul de instrumente rotunde conferă habitaclului un plus de eleganţă. Acest automobil sport reflectă putere şi dinamism.",
+    "text3": "Pachetul M Competition disponibil opţional se asigură că motorul de 331 kW al BMW M4 Coupé oferă şi mai multă putere. Pachetul include şi suspensie M adaptivă special reglată, jante M din aliaj uşor de 20” Star-spoke, tip 666 M, lustruite, cu anvelope mixte şi sistem de evacuare M Sport care produce sunet inconfundabil.",
+    "text4": "Sportiv, cu aspect dinamic şi care-ţi oferă sentimente puternice şi fără egal. Partea frontală impresionează datorită prizelor de aer mai mari ce reprezintă un indiciu al puterii maxime a BMW M4 Coupé. Sentimentul este dus mai departe, cu ajutorul jantelor din aliaj uşor şi a părţii spate robuste."
+  },
+  {
+    "code": "seria-5",
+    "name": "Seria 5",
+    "images": [
+      "./img/seria5-1.jpg",
+      "./img/seria5-2.jpg",
+      "./img/seria5-3.jpg",
+      "./img/seria5-4.jpg",
+      "./img/seria5-5.jpg"
+    ],
+    "cp": "462",
+    "acceleratie": "4,0",
+    "vitezaMaxima": "305",
+    "combustibil": "8,9 [9,1]",
+    "emisiiCo2": "204 [209]",
+    "text1": "Palpitant: cu modelele M Performance ale BMW Seria 5 Sedan îţi testezi şi depăşeşti limitele. Acestea îţi oferă adrenalină pură şi caracter sportiv, de curse. Pentru că întotdeauna ne dorim mai mult.",
+    "text2": "Chiar şi atunci când stă pe loc, BMW Seria 5 Sedan creează impresie puternică. Aflat la cea de-a şaptea generaţie, cel mai sportiv sedan din clasa business are grila radiatorului şi farurile conectate pentru prima dată. Linia joasă a plafonului care se extinde până în partea spate oferă automobilului aspect puternic şi silueta caracteristică modelelor coupé. Iar partea spate lată scoate în evidenţă performanţa înaltă a BMW Seria 5.",
+    "text3": "De la 0 la 100 în 4,0 secunde: cu 462 CP, BMW M550i xDrive întrece orice rival. BMW M550d asigură performanţă dinamică datorită celor 400 CP. În plus, datorită sistemului inteligent de tracţiune integrală xDrive care pune accent cu precădere pe controlul punţii spate, fiecare sprint ajută automobilul să lase mult în urmă competiţia. Iar în acelaşi timp, aspectul modelelor BMW Seria 5 Sedan M Performance creează impresie puternică din orice unghi le-ai privi.",
+    "text4": "Design care-ţi oferă adrenalină: pe lângă pachetul M aerodinamic, alte componente remarcabile ale BMW 550i xDrive includ prizele de aer mari şi accentele speciale de design în Gri Cerium. Această caracteristică exclusivă este prezentă şi pe rama distinctivă a grilei radiatorului, pe capacele aerodinamice ale oglinzilor şi pe inscripţionarea tipului de model."
+  },
+  {
+    "code": "seria-6",
+    "name": "Seria 6",
+    "images": [
+      "./img/seria6-1.jpg",
+      "./img/seria6-2.jpg",
+      "./img/seria6-3.jpg",
+      "./img/seria6-4.jpg",
+      "./img/seria6-5.jpg"
+    ],
+    "cp": "560",
+    "acceleratie": "4,2",
+    "vitezaMaxima": "305",
+    "combustibil": "9,9",
+    "emisiiCo2": "231",
+    "text1": "Care este unitatea de măsură pentru pasiune? Una din opţiuni ar fi cifrele... Cu toate acestea, 560 CP şi acceleraţie de la 0 la 100 km în 4,2 secunde reprezintă doar o fracţiune din fascinaţia pe care o are de oferit BMW M6 Coupé. Este suficient să priveşti caroseria optimizată aerodinamic pentru a înţelege pasiunea inginerilor M. Prezenţa impunătoare demonstrează instantaneu ADN-ul motorsport moştenit de acest automobil. În interior, genele sportive se reflectă cel mai bine în habitaclu: dacă optezi pentru materialele exclusive din Colecţia BMW Individual, interiorul automobilului tău va emana sportivitate până la cel mai mic detaliu. În acelaşi timp, BMW M6 Coupé deţine primul loc atunci când vine vorba de inginerie impresionantă. Acelaşi lucru se aplică şi în cazul motorului agil M TwinPower Turbo pe benzină cu 8 cilindri. Cu tehnologii precum diferenţialul M activ şi suspensia M de înaltă precizie, acest motor este perfect armonizat. În plus, cu pachetul M Competition disponibil opţional, BMW M6 Coupé oferă şi mai multă adrenalină caracteristică circuitelor de curse. Iar cu putere suplimentară de până la 600 CP şi dinamică de condus optimizată, acum eşti mai tentat ca niciodată să-ţi depăşeşti limitele.",
+    "text2": "BMW M6 Coupé pare să stea la pândă, ca şi cum s-ar pregăti de un atac neaşteptat. La fiecare apăsare a pedalei de acceleraţie, motorul absoarbe aer proaspăt prin prizele mari de aer amplasate pe partea frontală cu design aerodinamic. Logo-ul M străluceşte discret pe barele duble ale grilei radiatorului. Anvelopele stăpânesc asfaltul. Puterea pură propulsează caroseria atletică. Ochii privesc admirativ partea laterală a automobilului: vopseaua din Colecţia BMW Individual în Roşu Frozen metalizat disponibilă opţional subliniază perfect linia alungită a modelului, prin suprafeţele mate pe care le creează. Oglinzile exterioare M curbate şi plafonul conturat din carbon sunt integrate armonios în designul automobilului. Impresia puternică este completată de partea spate robustă. Muchia integrată a spoilerului şi difuzorul sunt elemente care oferă modelului aspect foarte puternic.",
+    "text3": "Transformă puterea în uimire: motorul M TwinPower Turbo pe benzină cu 8 cilindri reprezintă punctul culminant al tuturor centrelor de putere M. Puterea sa enormă de 560 CP (412 kW) şi 680 Nm este disponibilă în orice moment datorită conceptului inovator al turbocompresorului TwinScroll. Această putere poate fi crescută suplimentar până la 600 CP cu pachetul Competition opţional. Acest lucru este posibil datorită combinaţiei de turaţii mari ale motorului, turbocompresor şi tehnologii precum sistemele Valvetronic şi High Precision Injection. Iar cuplul devine maxim de la aproximativ 1.500 rpm, cu o curbă impresionantă a puterii liniare, care îţi provoacă încântare. Motorul M TwinPower Turbo pe benzină cu 8 cilindri demonstrează că puterea şi eficienţa nu se exclud reciproc atunci când sunt folosite tehnologiile inteligente parte a pachetului BMW EfficientDynamics, precum Recuperarea energiei la frânare. Acestea oferă consum mixt de combustibil de doar 9,9 litri de benzină per 100 de kilometri.",
+    "text4": "Pe lângă jantele M din aliaj uşor de 19” Star-spoke tip 344 M din echiparea standard, BMW M6 Coupé oferă trei variante exclusive de jante de 20” disponibile opţional. De asemenea, jantele forjate Double-spoke tip 343 M cu anvelope mixte, în negru polişat sau în negru mat, reprezintă o altă opţiune suplimentară. Acestea din urmă au cinci spiţe cu design exclusiv care încadrează perfect frânele M din material compozit. Sistemul de frânare cu etriere în albastru şi logo „M” a fost testat pe circuitele de curse. Jantele Double-spoke tip 601 M bicolore constituie cea de-a treia alternativă opţională din cadrul pachetului M Competition. Cu designul sportiv filigranat şi cele şapte spiţe, aceste jante subliniază aspectul puternic al BMW M6 Coupé – un automobil mereu pregătit să-şi demonstreze pasiunea motorsport, la o apăsare uşoară a pedalei de acceleraţie."
+  },
+  {
+    "code": "seria-7",
+    "name": "Seria 7",
+    "images": [
+      "./img/seria7-1.jpg",
+      "./img/seria7-2.jpg",
+      "./img/seria7-3.jpg",
+      "./img/seria7-4.jpg",
+      "./img/seria7-5.jpg"
+    ],
+    "cp": "265",
+    "acceleratie": "6,1",
+    "vitezaMaxima": "250",
+    "combustibil": "4,5-4,9",
+    "emisiiCo2": "119-129",
+    "text1": "BMW Group are o tradiţie îndelungată în modelarea viitorului industriei automoto. Credem cu tărie că cel mai eficient mod de a prezice viitorul este pur şi simplu de a-l crea. Prin BMW Seria 7, am lansat azi conceptul de lux al viitorului - prin inovaţii revoluţionare, caracteristici premium de confort şi design contemporan, precum şi prin măsuri de dinamică ce impresionează prin cifrele de eficienţă obţinute.",
+    "text2": "„Noul BMW Seria 7 reprezintă perspectiva noastră asupra conceptului de lux contemporan. Considerăm că inovaţia tehnologică şi calitatea premium a tuturor elementelor individuale sunt calităţi la fel de importante ca şi limbajul suav pe care îl grăiesc suprafeţele din interior sau ambianţa plăcută creată aici. În timpul procesului de design, am cochetat cu ideea de «Poezie tehnologică» - adică, realizarea unei armonii depline între utilizarea tehnologiilor progresiste şi transpunerea acestora în design.” Karim Habid, Şef al departamentului de Design BMW",
+    "text3": "BMW 730d cu motor TwinPower Turbo diesel cu 6 cilindri în linie din noua generaţie de motoare BMW EfficientDynamics oferă performanţă deosebită la condus şi consum mic de combustibil. Are cuplu impresionant de 620 Nm şi putere maximă de 195 kW (265 CP). Consumul mixt de combustibil este de la doar 4,5 până la 4,9 litri per 100 de kilometri (de la 4,8 până la 5,2 litri per 100 de kilometri cu xDrive), cu emisii medii de CO2 de la 119 până la 129 g/km (de la 127 până la 137 g/km cu xDrive). Echipat cu acest motor, BMW 730d are nevoie de doar 6,1 secunde pentru a ajunge de la 0 la 100 km/h (5,8 secunde cu xDrive) şi atinge viteza maximă de 250 km/h",
+    "text4": "BMW Seria 7 creşte plăcerea de a conduce caracteristică BMW şi în acelaşi timp aduce numeroase beneficii şi pentru pasageri, nu doar pentru conducătorul auto. Pasagerii care ocupă locurile luxoase din spate beneficiază de spaţiu amplu. În timp ce tehnologia de şasiu activ disponibilă împreună cu echipamentul opţional „Executive Drive Pro” îţi oferă experienţe de condus confortabile şi foarte dinamice în orice situaţie, luminile ambientale şi funcţiile inovatoare pentru confort şi divertisment îţi asigură multă relaxare atunci când călătoreşti."
+  }
+]

@@ -62,18 +62,18 @@ function changeCar(event, callback) {
         callback(element);
 }
 
-function changeActiveButton(button) {
-    let buttons = document.querySelector('.active');
-    buttons.classList.remove('active');
-    button.classList.add('active');
+function changeActiveButton(newActiveButton) {
+    let currentActiveButton = document.querySelector('.active');
+    currentActiveButton.classList.remove('active');
+    newActiveButton.classList.add('active');
 }
 
 function changeCarData(newCar) {
-    bindInnerTextById('name');
 
     if (newCar.images)
         replaceImages(newCar.images);
 
+    bindInnerTextById('name', newCar);
     bindInnerTextById('cp', newCar);
     bindInnerTextById('acceleratie', newCar);
     bindInnerTextById('vitezaMaxima', newCar);

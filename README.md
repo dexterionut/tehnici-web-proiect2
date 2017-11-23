@@ -13,3 +13,5 @@ Severul web folosit la crearea proiectului a fost pornit folosind urmatoarele co
       ``` 
       </li>
       </ul>
+      
+Demo proiect: <a href="http://dexterionut.gitlab.io/bmw-js/">click</a>

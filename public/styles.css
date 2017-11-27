@@ -139,6 +139,7 @@ body {
         float: left;
         height: calc(100vh - 110px);
         text-align: left;
+        overflow: hidden;
 
     }
 
